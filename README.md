@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![counter](https://en5z90qqodnmrls.m.pipedream.net)
-![Github stats](https://github-readme-stats.vercel.app/apiMeenakshyBS)
+
 
