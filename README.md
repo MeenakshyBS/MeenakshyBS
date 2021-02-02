@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![counter](https://en5z90qqodnmrls.m.pipedream.net)
+
 <img src="https://pbs.twimg.com/profile_banners/1303742108654694400/1612255144/1500x500">
 
 <h1 align="center">Hi 👋, I'm Meenakshy Bindu Suresh</h1>
