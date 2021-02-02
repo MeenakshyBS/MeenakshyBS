@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bindumeenakshy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bindumeenakshy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/meenakshy bindu suresh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="meenakshy bindu suresh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/meenakshy bindu suresh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="meenakshy bindu suresh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bsmeenakshyofficial/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="meenakshy bindu suresh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTAln0h-921FdtfbfGTEOjg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="meenakshy bindu suresh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/meenakshy_b_sur1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="meenakshy_b_sur1" height="30" width="40" /></a>
 </p>
 
