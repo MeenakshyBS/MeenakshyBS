@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://www.notion.so/Resume-9d0f7c86274346c1adda83972ce87063](https://www.notion.so/Resume-9d0f7c86274346c1adda83972ce87063)
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **You are the only person on earth who can use your ability. - Zig Ziglar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
