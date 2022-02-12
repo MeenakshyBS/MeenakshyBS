@@ -28,16 +28,16 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **meenakshy.b.suresh@gmail.com**
 
-- 📄 Know about my experiences [https://www.notion.so/Resume-9d0f7c86274346c1adda83972ce87063](https://www.notion.so/Resume-9d0f7c86274346c1adda83972ce87063)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **You are the only person on earth who can use your ability. - Zig Ziglar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bindumeenakshy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bindumeenakshy" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bsmeenakshyofficial/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="meenakshy bindu suresh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCTAln0h-921FdtfbfGTEOjg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="meenakshy bindu suresh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/meenakshy_b_sur1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="meenakshy_b_sur1" height="30" width="40" /></a>
+<a href="https://twitter.com/bindumeenakshy" target="blank"> <img align="center" <img src="https://img.icons8.com/ios-filled/50/26e07f/twitter.png" alt="bindumeenakshy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bsmeenakshyofficial/" target="blank"><img align="center" <img src="https://img.icons8.com/ios-filled/50/26e07f/linkedin.png" alt="meenakshy bindu suresh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTAln0h-921FdtfbfGTEOjg" target="blank"><img align="center" <img src="https://img.icons8.com/external-prettycons-solid-prettycons/60/26e07f/external-youtube-multimedia-prettycons-solid-prettycons.png" alt="meenakshy bindu suresh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/meenakshy_b_sur1" target="blank"><img align="center" <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/26e07f/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="meenakshy_b_sur1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
