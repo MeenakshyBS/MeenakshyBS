@@ -24,13 +24,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/bindumeenakshy" target="blank"><img src="https://img.shields.io/twitter/follow/bindumeenakshy?logo=twitter&style=for-the-badge" alt="bindumeenakshy" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **meenakshy.b.suresh@gmail.com**
-
-- 📄 Know about my experiences 
-
-- ⚡ Fun fact **You are the only person on earth who can use your ability. - Zig Ziglar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
