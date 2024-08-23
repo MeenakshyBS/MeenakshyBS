@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 [![@meenakshy_bs_'s Holopin board](https://holopin.me/meenakshy_bs_)](https://holopin.io/@meenakshy_bs_)
 
 <h1 align="center">Hi 👋, I'm Meenakshy Bindu Suresh</h1>
-<img src="https://pbs.twimg.com/profile_banners/1303742108654694400/1612255144/1500x500">
-<h3 align="center">Computer Science Engineering Student @MBCET</h3>
+<h3 align="center">Sculpting Bits Into Dreams | Computer Science Engineer On A Mission</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshybs&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshybs" /> </p>
 
