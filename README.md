@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@meenakshy_bs_'s Holopin board](https://holopin.me/meenakshy_bs_)](https://holopin.io/@meenakshy_bs_)
+[![My Badge](https://images.credly.com/size/220x220/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com) 
+
 
 <h1 align="center">Hi 👋, I'm Meenakshy Bindu Suresh</h1>
 <h3 align="center">Sculpting Bits Into Dreams | Computer Science Engineer On A Mission</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenakshybs&label=Profile%20views&color=0e75b6&style=flat" alt="meenakshybs" /> </p>
 
+
 <p align="left"> <a href="https://twitter.com/bindumeenakshy" target="blank"><img src="https://img.shields.io/twitter/follow/bindumeenakshy?logo=twitter&style=for-the-badge" alt="bindumeenakshy" /></a> </p>
+
 
 
 - 📫 How to reach me **bsmeenakshy369@gmail.com**
